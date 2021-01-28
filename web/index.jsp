@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>index</title>
+    <link rel="shortcut icon" href="image/icon/xinXin.ico">
 </head>
 <body>
 Hello,World!
