@@ -1,6 +1,21 @@
 #Maven
 target/
 
+#Eclipse
+.project
+.classpath
+.factorypath
+.settings/
+/.apt_generated/
+bin/
+.sts4-cache/
+
 #Intellij Ieda
 *.iml
 .idea/
+
+#Others
+.DS_Store
+logs/
+transaction-logs/
+.idea/**/*
